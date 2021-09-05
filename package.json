@@ -1,0 +1,24 @@
+{
+  "name": "traction",
+  "version": "1.0.0",
+  "description": "Dev Tools Browser",
+  "main": "./src/main.js",
+  "scripts": {
+    "test": "test",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/piderking/traction_browser.git"
+  },
+  "author": "piderking, kidsonfilm",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/piderking/traction_browser/issues"
+  },
+  "homepage": "https://github.com/piderking/traction_browser#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "^14.0.0"
+  }
+}

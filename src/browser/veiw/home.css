@@ -1,0 +1,10 @@
+body {
+    position: absolute;
+    
+}
+
+
+.content {
+    max-width: 500px;
+    margin: auto;
+  }
